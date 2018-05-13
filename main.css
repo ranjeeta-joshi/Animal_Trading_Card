@@ -1,0 +1,21 @@
+.borderout {
+    border: thin solid silver;
+    width: 300px;
+    padding: 1em;
+    box-shadow: 3px 3px 6px 1px rgba(0, 0, 0, 0.36);
+}
+.borderin {
+    border: thin solid silver;
+    width: 280px;
+    padding : 10px;
+    font-size: 13px;
+    background-color : burlywood;
+}
+.image {
+    width: 300px;
+    padding-bottom: 1em;
+}
+ul {
+    list-style-type: none;
+    margin-left: -30px;
+  }
